@@ -1,4 +1,4 @@
-# Student Record Management System in C
+# 👩‍🏫 Student Record Management System in C
 
 A simple file-based CLI app to add, view and search student records using C programming. 
 
