@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator in C
+# 🧮  Simple Calculator in C
 
 A basic command-line calculator built in C that performs:
 - Addition (+)
