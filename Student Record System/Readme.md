@@ -16,5 +16,6 @@ A simple file-based CLI app to add, view and search student records using C prog
  ## 🛠️ How to Run:
 ```bash
 gcc student_record_system.c -o student_app
+
 ./student_app
   
