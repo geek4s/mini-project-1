@@ -2,7 +2,7 @@
 Mini Projects based on C programming 
 
 ## Author 
-Name: Nishitha S
-Email: nishitha7701@gmail.com
-LinkedIn
+- Name: Nishitha S
+- Email: nishitha7701@gmail.com
+- LinkedIn: www.linkedin.com/in/nishitha-sathish-282505327
    
