@@ -1,4 +1,4 @@
-# Simple Calculator in C
+# 🧮 Simple Calculator in C
 
 A basic command-line calculator built in C that performs:
 - Addition (+)
@@ -11,7 +11,7 @@ A basic command-line calculator built in C that performs:
 - Switch-case statements
 - Loops and Conditionals
 
-## How to Run the program: 
+## 🛠️ How to Run the program: 
 ```bash
 gcc.calculator.c -o calculator
 ./calculator
